@@ -18,7 +18,7 @@
 #
 ---
 include:
-  - board: nice_view
+  - board: some_native_shield nice_view
     shield: corne_left
-  - board: nice_view
+  - board: some_native_shield nice_view
     shield: corne_right
